@@ -102,8 +102,8 @@ Azure for Students Tenant
 * [x] Security groups created
 * [x] Users assigned to groups
 * [x] Basic admin roles assigned
-* [ ] Screenshots sanitized and uploaded
-* [ ] Lab documentation finalized
+* [x] Screenshots sanitized and uploaded
+* [x] Lab documentation finalized
 * [ ] Future labs added
 
 ---
