@@ -110,15 +110,15 @@ Azure for Students Tenant
 
 ## Completed Labs
 
-| Lab    | Description                           | Status   |
-| ------ | ------------------------------------- | -------- |
-| Lab 01 | Existing Tenant IAM Environment Setup | Complete |
-| Lab 02 | User Onboarding and Offboarding       | Planned  |
-| Lab 03 | RBAC and Admin Role Delegation        | Planned  |
-| Lab 04 | MFA and Conditional Access            | Planned  |
-| Lab 05 | Privileged Identity Management        | Planned  |
-| Lab 06 | Access Reviews                        | Planned  |
-| Lab 07 | Suspicious Sign-In Review             | Planned  |
+| Lab | Description | Status |
+|---|---|---|
+| [Lab 01](labs/01-existing-tenant-setup.md) | Existing Tenant IAM Environment Setup | Complete |
+| Lab 02 | User Onboarding and Offboarding | Planned |
+| Lab 03 | RBAC and Admin Role Delegation | Planned |
+| Lab 04 | MFA and Conditional Access | Planned |
+| Lab 05 | Privileged Identity Management | Planned |
+| Lab 06 | Access Reviews | Planned |
+| Lab 07 | Suspicious Sign-In Review | Planned |
 
 ---
 
