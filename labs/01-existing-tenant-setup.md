@@ -114,20 +114,21 @@ Screenshots for this lab are stored in:
 ```text
 /screenshots/lab-01-tenant-users-groups/
 ```
+| Screenshot                                                                                                                     | Description                              |
+| ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------- |
+| [01-tenant-overview.png](../screenshots/lab-01-tenant-users-groups/01-tenant-overview.png)                                     | Existing Microsoft Entra tenant overview |
+| [02-lab-users-created.png](../screenshots/lab-01-tenant-users-groups/02-lab-users-created.png)                                 | Lab users created in Microsoft Entra ID  |
+| [03-sample-user-profile.png](../screenshots/lab-01-tenant-users-groups/03-sample-user-profile.png)                             | Example user profile                     |
+| [04-security-groups-created.png](../screenshots/lab-01-tenant-users-groups/04-security-groups-created.png)                     | Security groups created                  |
+| [05-hr-employee-group-membership.png](../screenshots/lab-01-tenant-users-groups/05-hr-employee-group-membership.png)                   | HR group membership                 |
+| [06-iam-admins-group-membership.png](../screenshots/lab-01-tenant-users-groups/06-iam-admins-group-membership.png)             | IAM admins group membership              |
+| [07-roles-and-administrators.png](../screenshots/lab-01-tenant-users-groups/07-roles-and-administrators.png)                   | Roles and administrators page            |
+| [08-global-administrator-assignment.png](../screenshots/lab-01-tenant-users-groups/08-global-administrator-assignment.png)         | Global Administrator role assignment       |
+| [09-user-administrator-assignment.png](../screenshots/lab-01-tenant-users-groups/09-user-administrator-assignment.png)     | User Administrator role assignment     |
+| [10-groups-administrator-assignment.png](../screenshots/lab-01-tenant-users-groups/10-groups-administrator-assignment.png) | Groups Administrator role assignment   |
+| [11-helpdesk-administrator-assignment.png](../screenshots/lab-01-tenant-users-groups/11-helpdesk-administrator-assignment.png) | Helpdesk Administrator role assignment   |
+| [12-final-lab01-environment-state.png](../screenshots/lab-01-tenant-users-groups/12-final-lab01-environment-state.png)         | Final completed Lab 01 environment state |
 
-Recommended screenshots include:
-
-* Tenant overview
-* Users list
-* Sample user profile
-* Groups list
-* Finance group membership
-* IAM admins group membership
-* Roles and administrators page
-* User Administrator assignment
-* Groups Administrator assignment
-* Helpdesk Administrator assignment
-* Final lab environment state
 
 ---
 
